@@ -1,3 +1,10 @@
+*.npy
+.DS_Store
+*.zip
+*.binary
+*.h5
+*.jugdata
+Week_4/rand_figs/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
